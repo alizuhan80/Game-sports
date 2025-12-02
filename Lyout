@@ -1,0 +1,38 @@
+html
+‎<!DOCTYPE html>
+‎<html lang="en">
+‎<head>
+‎  <meta charset="UTF-8" />
+‎  <meta name="viewport" content="width=device-width, initial-scale=1" />
+‎  <title>eSport Pakistan Tournaments</title>
+‎  <link rel="stylesheet" href="style.css" />
+‎</head>
+‎<body>
+‎  <header>
+‎    eSport Pakistan Tournaments
+‎  </header>
+‎
+‎  <nav>
+‎    <a href="#home">Home</a>
+‎    <a href="#tournaments">Tournaments</a>
+‎    <a href="#live">Live</a>
+‎    <a href="#contact">Contact</a>
+‎  </nav>
+‎
+‎  <main>
+‎    <section id="home">
+‎      <h2>Welcome to eSport Pakistan Tournaments</h2>
+‎      <p>Join PUBG tournaments and compete with players across Pakistan!</p>
+‎    </section>
+‎
+‎    <section id="tournaments">
+‎      <h2>Upcoming Tournaments</h2>
+‎      <ul>
+‎        <li>April PUBG Classic - Registration open</li>
+‎        <li>May Battle Royale - Slots limited</li>
+‎        <li>June Summer Clash - Coming soon</li>
+‎      </ul>
+‎
+‎      <form id="registrationForm">
+‎        <h3>Register for Tournament</h3>
+‎        <label for="name">Player Name:</label>
